@@ -7,8 +7,9 @@ ___________
 # Atividade
 
 Crie um sistema do tipo linha de comando, com JAVA que utilize as os metodos demonstrados em sala de aula para fazer
-a agenda de contatos funcionar, esse sistema deve ter um menu que pergunte se o usuário qual operação ele quer realizar
-as operações devem ser:
+a agenda de contatos funcionar, esse sistema deve ter um menu que pergunte ao usuário qual operação ele quer realizar.
+As operações basicas devem ser as listadas abaixo. 
+
 1. Listar todos os registros
 2. Listar um unico registro por ID
 3. Listar um unico registro por nome (esse operação deve ser criada, similar a operação anterior)
@@ -23,8 +24,5 @@ as operações devem ser:
 
 Implemente a adição das duas colunas em todos os métodos do sistema.
 
-** Todos as operações devem ser implementadas e testadas, **o trabalho deve ser apresentado na aula do dia 25/03**, conforme orientação
-dada em aula este mesmo projeto será utilizado para a base de conhecimento do JAVA WEB então o código desenvolvido não deve
-ser acoplado as regras de persistencia.**
+** Todas as operações devem ser implementadas e testadas, **o trabalho deve ser apresentado na aula do dia 01/04**, conforme orientação dada em aula este mesmo projeto será utilizado para a base de conhecimento do JAVA WEB então o código desenvolvido não deve ser acoplado as regras de persistencia.**
 
-A aula do dia 18/03 será para desenvolver o projeto e sanar duvidas em relação ao linguagem.
